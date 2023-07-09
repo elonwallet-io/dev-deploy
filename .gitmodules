@@ -1,0 +1,12 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:elonwallet-io/frontend.git
+[submodule "function"]
+	path = function
+	url = git@github.com:elonwallet-io/function.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:elonwallet-io/backend.git
+[submodule "docker-deployer"]
+	path = docker-deployer
+	url = git@github.com:elonwallet-io/docker-deployer.git
